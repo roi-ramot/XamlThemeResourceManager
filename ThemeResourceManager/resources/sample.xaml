@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="test"
+                     Color="#123456" />
+    <Path x:Key="TestPath"
+          Data="" />
+    <ImageBrush x:Key="SImageBrush"
+                ImageSource="sample.xaml"
+                Stretch="Uniform" />
+</ResourceDictionary>
